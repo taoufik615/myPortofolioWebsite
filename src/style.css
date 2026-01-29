@@ -1,0 +1,8 @@
+* {
+    transition: background ease 2s;
+    transition: color ease 2s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
